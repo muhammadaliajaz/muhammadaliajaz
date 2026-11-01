@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="76" viewBox="0 0 1000 76" role="img" aria-label="EDUCATION &amp; CERTIFICATIONS section header">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2563eb"/><stop offset="52%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563eb"/><stop offset="50%" stop-color="#a855f7"/><stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+    <style>
+      text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #aab6cc; }
+      .white { fill: #f8fafc; }
+      .chip { fill: #111c32; stroke: #405174; stroke-width: 1; }
+      .glow { animation: pulse 3.8s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity:.55 } 50% { opacity:1 } }
+      @keyframes drift { 0% { transform:translateX(-15px) } 100% { transform:translateX(15px) } }
+      @keyframes grow { from { transform:scaleX(.15); opacity:.35 } to { transform:scaleX(1); opacity:1 } }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="74" rx="14" fill="#0b1220" stroke="#263653"/>
+  <rect x="1" y="1" width="7" height="74" rx="3" fill="url(#grad)"/>
+  <text x="32" y="48" class="white" font-size="25" font-weight="750" letter-spacing="1.2">EDUCATION &amp; CERTIFICATIONS</text>
+  <path d="M610 38 H960" stroke="url(#line)" stroke-width="2" stroke-linecap="round" class="glow"/>
+</svg>

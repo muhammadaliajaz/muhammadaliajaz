@@ -1,0 +1,16 @@
+Profile README package for muhammadaliajaz
+
+Updated:
+- Added the nine supplied repository URLs that were accessible during review.
+- Added documented summaries for Extractor and manufac-sols.
+- Added DigiSkills Artificial Intelligence Using Python training and Cisco Networking Academy CPA: Programming Essentials in C++ Statement of Achievement.
+
+Repository review notes:
+- downloader and realchat returned 404 during review; omitted from README until the links are confirmed.
+- The other accessible repositories listed under "More GitHub Projects" did not expose a useful project description in their GitHub About/README content, so no features or technologies were guessed.
+- The Cisco course statement says the student is ready to attempt the C++ Certified Associate Programmer qualification; it is not evidence that the certification exam was passed.
+- DigiSkills course dates supplied: April 2026 – July 2026.
+
+Earlier profile details retained:
+- Work entries: DUO SOLS (January 2021 – May 2025) and ANALOG.PK (June 2025 – August 2025).
+- Education: BS Software Engineering, Virtual University of Pakistan, October 2022 – September 2026, GPA 3.90 / 4.00.
