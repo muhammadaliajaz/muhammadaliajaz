@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Muhammad Ali — software engineering profile banner" width="100%">
+<img src="banner.svg" alt="Muhammad Ali — software engineering profile banner" width="100%">
 
 <p>
   <a href="https://github.com/muhammadaliajaz"><img src="https://img.shields.io/badge/GitHub-muhammadaliajaz-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
@@ -10,19 +10,19 @@
 
 </div>
 
-<img src="assets/divider.svg" alt="Animated gradient divider" width="100%">
+<img src="divider.svg" alt="Animated gradient divider" width="100%">
 
 ## About Me
 
-<img src="assets/section-about-me.svg" alt="About Me section" width="100%">
+<img src="section-about-me.svg" alt="About Me section" width="100%">
 
 Software developer with experience as a Junior Developer and Software Intern. I am pursuing a BS in Software Engineering at Virtual University of Pakistan, with a listed GPA of **3.90 / 4.00**.
 
-<img src="assets/highlights.svg" alt="Profile highlights: experience, roles, degree, and GPA" width="100%">
+<img src="highlights.svg" alt="Profile highlights: experience, roles, degree, and GPA" width="100%">
 
 ## Experience
 
-<img src="assets/section-experience.svg" alt="Experience section" width="100%">
+<img src="section-experience.svg" alt="Experience section" width="100%">
 
 | Role | Organization | Dates |
 |---|---|---|
@@ -31,13 +31,13 @@ Software developer with experience as a Junior Developer and Software Intern. I 
 
 ## Career Timeline
 
-<img src="assets/section-career-timeline.svg" alt="Career timeline section" width="100%">
+<img src="section-career-timeline.svg" alt="Career timeline section" width="100%">
 
-<img src="assets/timeline.svg" alt="Timeline of work experience and education" width="100%">
+<img src="timeline.svg" alt="Timeline of work experience and education" width="100%">
 
 ## What I've Worked On / Projects
 
-<img src="assets/section-projects.svg" alt="Projects section" width="100%">
+<img src="section-projects.svg" alt="Projects section" width="100%">
 
 The following repositories are part of my GitHub work:
 
@@ -57,7 +57,7 @@ The following repositories are part of my GitHub work:
 
 ## Tech Stack
 
-<img src="assets/section-tech-stack.svg" alt="Tech Stack section" width="100%">
+<img src="section-tech-stack.svg" alt="Tech Stack section" width="100%">
 
 **Backend**
 
@@ -108,7 +108,7 @@ The following repositories are part of my GitHub work:
 
 ## Education & Certifications
 
-<img src="assets/section-education-certifications.svg" alt="Education and certifications section" width="100%">
+<img src="section-education-certifications.svg" alt="Education and certifications section" width="100%">
 
 **BS in Software Engineering**  
 Virtual University of Pakistan  
@@ -127,7 +127,7 @@ The Cisco course covered programming fundamentals, C++ syntax and semantics, bas
 
 ## GitHub Stats
 
-<img src="assets/section-github-stats.svg" alt="GitHub Stats section" width="100%">
+<img src="section-github-stats.svg" alt="GitHub Stats section" width="100%">
 
 <div align="center">
 
@@ -138,7 +138,7 @@ The Cisco course covered programming fundamentals, C++ syntax and semantics, bas
 
 ## Let's Connect
 
-<img src="assets/section-lets-connect.svg" alt="Let's Connect section" width="100%">
+<img src="section-lets-connect.svg" alt="Let's Connect section" width="100%">
 
 - **LinkedIn:** [https://linkedin.com/in/muhammad-ali-8b00583bb](https://linkedin.com/in/muhammad-ali-8b00583bb)
 - **GitHub:** [https://github.com/muhammadaliajaz](https://github.com/muhammadaliajaz)
@@ -146,7 +146,7 @@ The Cisco course covered programming fundamentals, C++ syntax and semantics, bas
 
 <div align="center">
 
-<img src="assets/divider.svg" alt="Animated gradient divider" width="100%">
+<img src="divider.svg" alt="Animated gradient divider" width="100%">
 
 *Thanks for visiting my profile!*
 
