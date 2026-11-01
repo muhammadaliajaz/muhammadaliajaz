@@ -33,7 +33,7 @@ Software developer with experience as a Junior Developer and Software Intern. I 
 
 <img src="section-career-timeline.svg" alt="Career timeline section" width="100%">
 
-<img src="timeline.svg.svg" alt="Timeline of work experience and education" width="100%">
+<img src="timeline.svg" alt="Timeline of work experience and education" width="100%">
 
 ## What I've Worked On / Projects
 
