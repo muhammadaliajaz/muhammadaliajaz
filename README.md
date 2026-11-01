@@ -131,7 +131,6 @@ The Cisco course covered programming fundamentals, C++ syntax and semantics, bas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadaliajaz&show_icons=true&theme=tokyonight&hide_border=true" alt="Muhammad Ali's GitHub statistics">
 <img height="165" src="https://streak-stats.demolab.com?user=muhammadaliajaz&theme=tokyonight&hide_border=true" alt="Muhammad Ali's GitHub contribution streak">
 
 </div>
